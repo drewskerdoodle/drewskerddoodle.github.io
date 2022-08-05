@@ -13,6 +13,6 @@ another list
 2. is
 1. cat
 ## other pages
-- [Anna the cat](https://github.com/drewskerdoodle/drewskerddoodle.github.io/Annathecat)
+- [Anna the cat](https://drewskerdoodle.github.io/Annathecat)
 
 
