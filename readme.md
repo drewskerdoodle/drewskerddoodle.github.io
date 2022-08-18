@@ -9,8 +9,8 @@ ordered list
 
 another list
 ---
-3. Anna
-2. is
+3. Anna is
+2. an awesome
 1. cat
 ## other pages
 - [Anna the cat](https://drewskerdoodle.github.io/Annathecat)
